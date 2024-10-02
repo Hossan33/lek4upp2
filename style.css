@@ -1,0 +1,104 @@
+.right{
+    float: right;
+    position: relative;
+    top: -170px
+}
+
+div{
+    
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: -100px
+}
+
+body{
+    background-image: url('winter-snow.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+  .event-list li {
+    padding: 10px;
+  }
+  
+  .event-list{
+    background-color: darkslategray;
+    outline: solid gold;
+    margin: 400px;
+    position: relative;
+    top: -300px
+}
+
+
+.calendar {
+    width: 40%;
+    border-collapse: collapse;
+    border: solid black 4px;
+    margin top: 0px;
+    left: 377px;
+    margin bottom: 50px;
+    
+
+    
+  }
+  
+  .calendar th, .calendar td {
+    border: 1.5px solid red;
+    padding: 3px;
+    text-align: center;
+  }
+  
+  .calendar th {
+    background-color: #f2f2f2;
+  }
+  
+  .calendar td {
+    background-color: #fff;
+  }
+
+  
+
+  .calendar{
+      position: relative;
+      top: -600px;
+
+      
+  }
+
+  .red{
+      color: red;
+  }
+
+  .calendar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+.header-icons{
+    outline: solid black 6px;
+}
+
+.bomb{
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+    height: auto;
+    border: solid black 6px;
+    margin-top: 0px;
+    top: -400px;
+    left: -300px
+    
+
+}
+
+
+
+
+ 
